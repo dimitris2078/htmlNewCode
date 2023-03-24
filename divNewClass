@@ -1,0 +1,279 @@
+write me a scrapy code to get from the class price the price and from the class title the text and the url:
+<div class="product" data-id="27883503" index="">
+
+
+            <button class="remove removeSelectedProduct" id="remove_27883503"></button>
+            <div class="productWrap">
+                <div class="top">
+                    <div class="img">
+                        <a href="https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/252462-tv-led-43-lg-43uq75006"><img
+                                src="https://assets.kotsovolos.gr/product/252462-m.jpg" alt="LG 43UQ75006LF 43&#039;&#039;"/></a>
+                    </div>
+                    <div class="prInner">
+                        <div class="prReview">
+                            <span class="prCode">252462</span>
+                                <div class="starsBlock">
+                                <a class="goToReviewPDP" href="https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/252462-tv-led-43-lg-43uq75006#reviews">
+                                    <div class="yotpo bottomLine" data-product-id="252462"
+                                    data-url="https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/252462-tv-led-43-lg-43uq75006"></div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="title" id="title_27883503">
+                            <h2>
+                                <a href="https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/252462-tv-led-43-lg-43uq75006"> <!-- add widget for product title --><!-- BEGIN ProductTitle.jsp --><!-- product details -->LG 43UQ75006LF 43'' <div>Τηλεόραση Smart 4K TV</div><!-- END ProductTitle.jsp -->
+                                </a>
+                            </h2>
+							
+                            	<div class='tagsListWrapper'>
+                                    <ul class="tagsList">
+                                    	
+                                    </ul>
+                            	</div>
+                        	
+                        </div>
+                        <div class="cntRow">
+                            <!--  add price widget -->
+                            <div class="priceBlock priceBlock_small">
+                                <div class="price">
+                                    <!-- BEGIN PriceDisplay.jsp --><!-- isCollectionDC3ACPrice:  --><!-- isCollectionDC3FridgePrice:  --><!-- isCollectionDC3FreezerPrice:  --><!--!!!!!! 549.0 !!!--><!--!!![{"usage":"Display","description":"L","currency":"EUR","value":"549.0"}, {"usage":"Offer","description":"O","currency":"EUR","value":"369.0"}] !!!--><!-- BEGIN GetCatalogEntrySpecialPrice_Data.jspf --><!-- END GetCatalogEntrySpecialPrice_Data.jspf -->
+<div class='priceWithVat'>
+	 
+		<div class="init priceDetail">
+			<span>από</span>
+			<div class="price" id="item_27883503">
+				<span class="displayPrice">€</span>
+		549.00
+			</div>
+		</div>
+	
+
+			<div class="price" id="price_27883503">
+				<span class="main-price">€</span>369.00
+			</div>
+			
+			<div class="priceVatFree">
+				<div class="greyLabelVatFreeLabel" >
+					ΤΙΜΗ ΧΩΡΙΣ ΦΠΑ
+				</div>
+			</div>
+			
+			
+				<div class="details">
+
+					<div class="benefit priceDetail">
+						<span>κερδίζεις</span>
+						<div class="price" id="item_27883503">
+							<span class="differnecePrice">€</span>180.00
+						</div>
+					</div>
+				</div>
+			
+</div>
+<!-- isCollectionDC3AC:  --><!-- isCollectionDC3Freezer:  --><!-- isCollectionDC3Fridge:  --><!-- productPriceWithVAT: 369.0 --><!-- productPriceFreeVAT: 297.5806451612903 --><!-- vatAmount: 71.4193548387097--><!-- digitalCare3MaxDiscAmount30:  --><!-- digitalCare3MaxDiscAmount35:  --><!-- digitalCare3MaxDiscAmount45:  --><!-- digitalCare3MaxDiscAmount50:  --><!-- dc3VoucherDiscWithVAT30: 0.0 --><!-- dc3VoucherDiscWithVAT35: 0.0 --><!-- dc3VoucherDiscWithVAT45: 0.0 --><!-- dc3VoucherDiscWithVAT50: 0.0 --><!-- productPriceWithDC3VoucherDisc30: 369.00--><!-- productPriceWithDC3VoucherDisc35: 369.00--><!-- productPriceWithDC3VoucherDisc45: 369.00--><!-- productPriceWithDC3VoucherDisc50: 369.00--><!-- categoryIdentifier: 7515 --><!-- storeConf AC: 7471--><!-- storeConf Fridge: 7593,7597,7595--><!-- storeConf Freezer: 7591--><!-- isInAcCategory: false --><!-- isInFridgeCategory: false --><!-- isInFreezerCategory: false --><!-- isDigitalCareRecycle: false --><!-- acBTU:  --><!--!!!!!! 549.0 !!!--><!--!!![{"usage":"Display","description":"L","currency":"EUR","value":"549.0"}, {"usage":"Offer","description":"O","currency":"EUR","value":"369.0"}] !!!--><!-- BEGIN GetCatalogEntrySpecialPrice_Data.jspf --><!-- END GetCatalogEntrySpecialPrice_Data.jspf -->
+<div class='priceVatFree'>
+	 
+		<div class="init priceDetail">
+			<span>από</span>
+			<div class="price" id="item_27883503">
+				<span class="displayPrice">€</span>
+		442.74
+			</div>
+		</div>
+	
+
+			<div class="price" id="price_27883503">
+				<span class="main-price">€</span>297.58
+			</div>
+			
+			<div class="priceVatFree">
+				<div class="greyLabelVatFreeLabel" >
+					ΤΙΜΗ ΧΩΡΙΣ ΦΠΑ
+				</div>
+			</div>
+			
+			
+				<div class="details">
+
+					<div class="benefit priceDetail">
+						<span>κερδίζεις</span>
+						<div class="price" id="item_27883503">
+							<span class="differnecePrice">€</span>145.16
+						</div>
+					</div>
+				</div>
+			
+</div>
+<!-- END PriceDisplay.jsp -->
+                                </div>
+                            </div>
+                            
+                            <!-- BEGIN GetCatalogEntrySpecialPrice.jsp --><!-- BEGIN GetCatalogEntrySpecialPrice_Data.jspf --><!-- END GetCatalogEntrySpecialPrice_Data.jspf --><!-- BEGIN GetCatalogEntrySpecialPrice_UI.jspf --><!-- END GetCatalogEntrySpecialPrice_UI.jspf --><!-- END GetCatalogEntrySpecialPrice.jsp -->        
+
+                        </div>
+                    </div>
+                </div>
+                <div class="btm">
+                    <div class="prDesc">
+                    	
+                                <p>
+                                    Ανάλυση Οθόνης:
+                                    
+                                        <span><b>Ultra HD 4K</b></span>
+                                    
+                                <p>
+                                
+                                <p>
+                                    Τεχνολογία Panel:
+                                    
+                                        <span><b>LED</b></span>
+                                    
+                                <p>
+                                
+                                <p>
+                                    Ρυθμός Ανανέωσης Panel:
+                                    
+                                        <span><b>60Hz</b></span>
+                                    
+                                <p>
+                                
+                                <p>
+                                    Smart TV:
+                                    
+                                        <span><b>Υποστηρίζεται</b></span>
+                                    
+                                <p>
+                                
+                                <p>
+                                    Οπίσθιος Φωτισμός:
+                                    
+                                        <span><b>Direct LED</b></span>
+                                    
+                                <p>
+                                
+                        <div class="prReview">
+                            <div class="starsBlock">
+                                <a class="goToReviewPDP" href="https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/252462-tv-led-43-lg-43uq75006#reviews">
+                                <div class="yotpo bottomLine" data-product-id="252462"
+                                     data-url="https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/252462-tv-led-43-lg-43uq75006"></div>
+                                </a>
+                            </div>
+                        </div>                        
+                    </div>
+                    <!-- Add to card button -->
+                    <div class="btnBlock">
+						<!-- BEGIN AddToCartButton.jsp --><!-- BEGIN ProductAvailability_Data.jspf --><!--  END ProductAvailability_Data.jspf -->
+	<input type="hidden" name="itemId" id="itemForPickup" value="27884003" />
+	<input type="hidden" id="pickupInStoreShipModeId_27883503" value="10001" />
+	<input type="hidden" id="homeAvailability_27883503" value="available" />
+	<input type="hidden" id="expressHomeAvailability_27883503" value="unavailable" />
+	<input type="hidden" id="expressHomeAvailabilityForBigBox_27883503" value="available" />
+	
+	<!-- BEGIN ProductAvailability_UI.jspf -->
+<div class="availability">
+	
+	
+								      <div class="availability__row">	
+										    <div class='availability__row__icon availability__row__icon--active'>  
+										        <span class="icon icon-van"></span>
+										    </div>
+										    <div class='availability__row__text'>
+										    	<div class='availability__title'>
+									         		Διαθέσιμο για αποστολή
+									         	</div>
+									        </div>
+								       </div>
+								    
+										<div class="availability__row" expressAvailabilityHomeForBigBox>	 
+									    	<div class='availability__row__icon availability__row__icon--active'>  
+									        	<img src='https://assets.kotsovolos.gr/assets-azure/24h-delivery-icon.png'>
+									        </div>
+									        <div class='availability__row__text'> 	
+												<div class='availability__title'>
+													<span >Διαθέσιμο για παράδοση σε 24 ώρες</span>
+													
+												</div> 
+																         	                                
+									        </div>							          
+										</div>
+									
+								   		<div class="availability__row">	 
+									   		 <div class='availability__row__icon availability__row__icon--active'>  
+									        	<span class="icon icon-store_display"></span>
+									       	 </div>
+									       	  <div class='availability__row__text'>
+									       	 	<div class='availability__title'>
+									         		Διαθέσιμο για δωρεάν παραλαβή σε 20'									         	
+									         	</div>
+									         </div>
+								          </div>
+								    
+</div>
+
+<!-- END ProductAvailability_UI.jspf --><!-- button start -->
+		<input type="hidden" name="pickUpInStoreDeliveryCase" id="pickUpInStoreDeliveryCase_27884003" value="2" />
+		
+				<input type="hidden" name="ctaBtn" id="ctaBtn_27884003" value="buy" />
+				
+					<button class="button yellow addItemToCartBtn" id="buyBtn_27883503" data-catentryId="27884003" data-addtocartbtn-productid="27883503">
+						Απόκτησέ το
+					</button>
+				<!-- button c3 --><!-- button end --><!-- addtocartdone --><!-- END AddToCartButton.jsp -->
+                    </div>
+                    
+                        <div class="compare tooltip open bottom right">
+                            <div class="checkbox forCompare">
+                                <input id="compare_27883503" class="compare_box " type="checkbox" data-state=""
+                                       data-id="27883503">
+                                <i class="icon"></i>
+                                <label for="compare_27883503">Σύγκριση</label>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    <!-- END ProductOverviewDisplayTile_UI.jsp --><!-- END ProductOverviewDisplayTile.jsp --><!-- BEGIN ProductOverviewDisplayTile.jsp --> 
+
+<script type="application/ld+json">
+	{
+		"@context":"https://schema.org/",
+		"@type":"Product",
+		"@id":"https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/270528-tv-led-50-f-u-fl2d5007uh",
+		"name":"F&U FL2D5007UH 50",
+		"image":"https://assets.kotsovolos.gr/product/270528-m.jpg",
+		"description":"<p>Smart Τηλεόραση F&U 50, με ανάλυση 4K Ultra HD για εκπληκτική εικόνα, πλήθος προεγκατεστημένων Smart εφαρμογών, όπως Netflix και Amazon Prime Video. Διαθέτει τεχνολογία HDR10 για ευκρινή χρώματα σε ό,τι βλέπεις και κρυστάλλινο ήχο DTS.</p>",
+		"sku":"270528",
+		"brand":"",
+		"offers":[ {
+			"@type":"Offer",
+			"price":"279.0",
+			"priceSpecification": {
+				"price": "279.0", "priceCurrency": "EUR", "valueAddedTaxIncluded": "false"
+			},
+			"priceCurrency":"EUR",
+			"availability":"https://schema.org/",
+			"url":"https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/270528-tv-led-50-f-u-fl2d5007uh",
+			"seller": {
+				"@type": "Organization", "name": "ΚΩΤΣΟΒΟΛΟΣ", "url": "https://www.kotsovolos.gr"
+			}
+			}
+		]
+	}
+</script> 
+
+<!--googleoff: index-->
+<div class="data_product_detail" style="display:none">
+	<span class="url 43098001">https://www.kotsovolos.gr/sound-vision/televisions/led-lcd/270528-tv-led-50-f-u-fl2d5007uh</span>
+	<span class="product_id 43098001" >270528</span>
+	<span class="name 43098001">F&U FL2D5007UH 50</span>
+	<span class="image 43098001">https://assets.kotsovolos.gr/product/270528-m.jpg</span>
+	<span class="price 43098001">279.0</span>
+	<span class="position 43098001">2</span>
+	<span class="brand 43098001">
+	
+	</span>
+	<span class="category 43098001">
+		Εικόνα & Ήχος/Τηλεοράσεις & Αξεσουάρ/Τηλεοράσεις
+	</span>
+</div>
